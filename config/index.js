@@ -1,10 +1,10 @@
 module.exports = {
   //-- SITE SETTINGS -----
   author: "@konstantinmuenster",
-  siteTitle: "Gatsby Starter Portfolio Minimal",
-  siteShortTitle: "Gatsby", // Used as logo text in header, footer, and splash screen
+  siteTitle: "Site de Baptiste",
+  siteShortTitle: "Bapt", // Used as logo text in header, footer, and splash screen
   siteDescription:
-    "A modern one-page portfolio with a clean yet expressive design.",
+    "Site égocentrique parlant exclusivement de MOI",
   siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
   siteLanguage: "en_US",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
@@ -18,8 +18,8 @@ module.exports = {
       tertiary: "#F2F2F2",
       text: "#000000",
       subtext: "#555555",
-      background: "#FFFFFF",
-      card: "#FFFFFF",
+      background: "#FF00D4",
+      card: "#FF8AF9",
       scrollBar: "rgba(0, 0, 0, 0.5)",
       boxShadow: "rgba(0, 0, 0, 0.16)",
       boxShadowHover: "rgba(0, 0, 0, 0.32)",
@@ -57,23 +57,17 @@ module.exports = {
       name: "Linkedin",
       url: "https://www.linkedin.com/in/konstantin-muenster/",
     },
-    {
-      name: "Medium",
-      url: "https://konstantinmuenster.medium.com/",
-    },
+    
     {
       name: "Github",
       url:
-        "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal",
+        "https://github.com/Ministre96",
     },
+    
     {
-      name: "Behance",
-      url: "https://www.behance.net/konstanmnster",
+      name: "Mail",
+      url: "mailto:baptiste-Vansnick@hotmail.fr",
     },
-    // {
-    //   name: "Mail",
-    //   url: "mailto:mail@konstantin.digital",
-    // },
   ],
 
   //-- NAVIGATION SETTINGS -----
